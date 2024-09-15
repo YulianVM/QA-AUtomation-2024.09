@@ -1,0 +1,14 @@
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\bin\Debug\net8.0\Convertor USD to EUR.exe
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\bin\Debug\net8.0\Convertor USD to EUR.deps.json
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\bin\Debug\net8.0\Convertor USD to EUR.runtimeconfig.json
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\bin\Debug\net8.0\Convertor USD to EUR.dll
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\bin\Debug\net8.0\Convertor USD to EUR.pdb
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.AssemblyInfoInputs.cache
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.AssemblyInfo.cs
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.csproj.CoreCompileInputs.cache
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.dll
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\refint\Convertor USD to EUR.dll
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.pdb
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\Convertor USD to EUR.genruntimeconfig.cache
+C:\Users\zerov\source\repos\Key Concepts\ConsoleApp2\obj\Debug\net8.0\ref\Convertor USD to EUR.dll
