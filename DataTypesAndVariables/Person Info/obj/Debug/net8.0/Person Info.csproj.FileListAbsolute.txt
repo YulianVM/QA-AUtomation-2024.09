@@ -1,0 +1,14 @@
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\bin\Debug\net8.0\Person Info.exe
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\bin\Debug\net8.0\Person Info.deps.json
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\bin\Debug\net8.0\Person Info.runtimeconfig.json
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\bin\Debug\net8.0\Person Info.dll
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\bin\Debug\net8.0\Person Info.pdb
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.AssemblyInfoInputs.cache
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.AssemblyInfo.cs
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.csproj.CoreCompileInputs.cache
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.dll
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\refint\Person Info.dll
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.pdb
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\Person Info.genruntimeconfig.cache
+C:\Users\zerov\source\repos\DataTypesAndVariables\Person Info\obj\Debug\net8.0\ref\Person Info.dll
